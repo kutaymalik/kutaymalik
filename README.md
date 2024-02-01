@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Kutay</h1>
 <p>Fullstack developer from Sinop, Turkey.</p>
 
-- 🌱 I’m currently learning **C#, Angular**
+- 🌱 I’m currently learning **C#, React**
 
 - 📫 How to reach me **tatasmalik@gmail.com**
 
