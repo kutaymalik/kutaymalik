@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kutay</h1>
-<p>Fullstack developer from Sinop, Turkey.</p>
+<p>Fullstack developer from Ankara, Turkey.</p>
 
 - 🌱 I’m currently working with **C#, React**
 
