@@ -16,5 +16,3 @@
   
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kutaymalik&show_icons=true&locale=en" alt="kutaymalik" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kutaymalik&show_icons=true&locale=en&layout=compact" alt="kutaymalik" /></p>
-
-[Kutay Malik Tatas CV.pdf](https://github.com/user-attachments/files/16941373/Kutay.Malik.Tatas.CV.pdf)
